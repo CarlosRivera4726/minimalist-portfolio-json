@@ -1,66 +1,51 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Carlos Felipe Rivera Gueche",
+    "label": "Full Stack Developer con 1 año de experiencia.",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "carlosrivera_-717@hotmail.com",
+    "phone": "+573167027445",
+    "url": "https://carlosriverag.dev",
+    "summary": "1 año de experiencia como Desarrollador Web. Vivo en Popayán, Colombia. He trabajado en diferentes entornos: desde desarrollar modulos hasta implementar soluciones completas trabajando en equipo.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "10001",
+      "city": "Popayán",
+      "countryCode": "CO",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Carlos Felipe Rivera Gueche",
+        "url": "https://www.linkedin.com/in/carlos-rivera-g-c/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "CarlosRivera4726",
+        "url": "https://github.com/CarlosRivera4726"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "SRF Consultores",
+      "position": "Desarrollador Web",
+      "url": "https://srfconsultores.com/",
+      "startDate": "2024-11-02",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desempeño de tareas de desarrollo de software, creación de componentes, mantenimiento de código, y pruebas de software.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Vidanova",
+      "position": "Tecnico en Sistemas",
+      "url": "https://vidanova.com.co/",
+      "startDate": "2023-01-22",
+      "endDate": "2025-05-21",
+      "summary": "Lider de proceso de soporte técnico, mantenimiento de equipos informáticos. Implementación de soluciones tecnológicas para mejorar la eficiencia operativa.",
       "highlights": [
         "Started the company"
       ]
@@ -77,38 +62,64 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+  "education": [
+    {
+    "institution": "Institución Universitaria Colegio Mayor del Cauca",
+    "url": "https://unimayor.edu.co/web/",
+    "area": "Ingeniería Informática",
+    "studyType": "Ingeniería",
+    "startDate": "2024-07-26",
+    "endDate": null,
+    "score": "4.0"
+  },
+  {
+    "institution": "Institución Universitaria Colegio Mayor del Cauca",
+    "url": "https://unimayor.edu.co/web/",
+    "area": "Tecnólogo en Desarrollo de Software",
+    "studyType": "Intermediate",
+    "startDate": "2021-02-01",
+    "endDate": "2024-07-26",
+    "score": "4.0"
+  },
+  {
+    "institution": "Sena",
+    "url": "https://www.sena.edu.co/es-co/Paginas/default.aspx",
+    "area": "Tecnico en Sistemas",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+    "startDate": "2018-02-01",
+    "endDate": "2019-11-28",
+    "score": "4.0"
+  }
+],
+  
+  "certificates": [
+    {
+    "name": "Bootcamp Inteligencia Artificial Nivel Intermedio - Bootcamp Inteligencia Artificial Nivel Intermedio",
+    "date": "2024-11-23",
+    "issuer": "UTP-faceIT",
+    "url": "https://www.acreditta.com/credential/3ad40d43-6ca9-4f7e-9bc7-2deab02d4d14?resource_type=badge&resource=3ad40d43-6ca9-4f7e-9bc7-2deab02d4d14"
+  },
+  {
+    "name": "Scrum Foundations Certified Expert - SFCE - (Código verificación: wQNvrU0F5U)",
+    "date": "2024-11-23",
+    "issuer": "Certjoin",
+    "url": "https://www.acreditta.com/credential/3ad40d43-6ca9-4f7e-9bc7-2deab02d4d14?resource_type=badge&resource=3ad40d43-6ca9-4f7e-9bc7-2deab02d4d14"
+  },
+  {
+    "name": "Foundational C# with Microsoft",
+    "date": "2023-10-21",
+    "issuer": "FreeCode Camp",
+    "url": "https://www.freecodecamp.org/certification/CarlosRivera4726/foundational-c-sharp-with-microsoft"
+  }
+],
   "skills": [
+    {
+      "name": "NEST.JS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Backend", "Backend"
+      ]
+    },
     {
       "name": "HTML",
       "level": "Master",
@@ -194,82 +205,42 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Basic"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "name": "TECH STORE - FRONTEND",
+      "isActive": false,
+      "description": "Es la creacion de un sitio web de comercio electrónico que permite a los usuarios navegar, buscar y comprar productos en línea. (creado por mi)",
       "highlights": [
-        "Elige tu propia aventura",
+        "Angular",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "https://tech-store-col.vercel.app/es/home",
+      "github": "https://github.com/CarlosRivera4726/LearningAngular"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "name": "TECH STORE - BACKEND",
+      "isActive": false,
+      "description": "Es la creacion del backend del comercio electrónico que permite a los usuarios navegar, buscar y comprar productos en línea. (creado por mi)",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Nest.js",
+        "Swagger",
+        "TypeScript"
       ],
-      "url": "https://adventjs.dev"
+      "github": "https://github.com/CarlosRivera4726/LearningNestjs"
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "name": "Generador de reportes - Vidanova",
+      "isActive": false,
+      "description": "Genera reportes a partir de un archivo CSV enviado al servidor, automatizando el proceso según la cantidad de usuarios.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "No terminado",
+        "Reto generacion de reportes"
       ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://reportesvidanova.netlify.app/"
     }
   ]
 }
